@@ -22,6 +22,12 @@ npm install
 npm start
 ```
 
-Scan the QR with WhatsApp on the number you want to use as the bot. Then message that number (or yourself) with **menu**, **hey**, **I want a bouquet**, etc.
+Scan the QR with WhatsApp on the number you want to use as the bot. Then message that number (or yourself) with:
+
+- **menu** — show options  
+- **hey** / **hi** — greeting + menu  
+- **I want a bouquet** — bouquet recommendation → YES/NO  
+- **car wash** / **wash my car** — car wash recommendation  
+- **something to eat** / **3** — quick bite recommendation  
 
 Full details: [whatsapp-bot/README.md](./whatsapp-bot/README.md).
